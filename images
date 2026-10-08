@@ -1,1 +1,4 @@
-
+images/
+│   ├── vm-setup.png
+│   ├── permissions-before.png
+│   ├── permissions-after.png
